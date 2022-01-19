@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![chaos0103's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaos0103&show_icons=true&theme=default)
-<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos0103&layout=compact)](https://github.com/chaos0103/github-readme-stats)
 <br/>
 ### BOJ Rank
