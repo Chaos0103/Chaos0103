@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Languages -->
-<div style="text-align : center;">
+<p align="center">
 
 ### Languages:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -38,4 +38,4 @@
 <!-- Contacts -->
 ### Contacts:
 <a href="mailto:lyt1228@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</div>
+</p>
