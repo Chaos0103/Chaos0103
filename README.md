@@ -26,8 +26,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
-<!-- License -->
-### 📝 License
+<!-- Certificate -->
+### 📑 Certificate
 
 - [2016.06] ITQ OA Master
 - [2017.09] 네트워크관리사 2급
