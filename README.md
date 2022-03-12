@@ -1,6 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 🐶  미래의 백앤드 서버 개발자
+
 - [2019.03 ~ ] 세종대학교 컴퓨터공학과
 
 <!-- Tech Stack -->
@@ -34,6 +35,9 @@
 - [2021.05] 컴퓨터활용능력 2급
 
 <!-- Project -->
+### 🖥 Project
+
+- [2022.03 ~ ] Capstone디자인
 
 <!-- Goals -->
 ### 🔥 Goals
