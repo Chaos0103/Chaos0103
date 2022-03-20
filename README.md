@@ -12,8 +12,10 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
+<!--
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+-->
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a>
 
 <!-- Tools -->
@@ -39,6 +41,9 @@
 ### 🖥 Project
 
 - [2022.03 ~ ] Capstone디자인
+<!--
+- [2022.03 ~ ] 제4회 교육 공공데이터 분석활용대회
+-->
 
 <!-- Goals -->
 ### 🔥 Goals
@@ -49,7 +54,7 @@
 ### Contacts
 <a href="mailto:lyt1228@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-
+<!-- stats -->
 
 ![chaos0103's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaos0103&show_icons=true&theme=default)
 
