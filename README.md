@@ -39,7 +39,7 @@
 <!-- Project -->
 ### 🖥 Project
 
-- [2022.03 ~ ] Capstone디자인
+- [2022.03 ~ 2022.06] Capstone디자인
 
 <!-- Goals -->
 ### 🔥 Goals
