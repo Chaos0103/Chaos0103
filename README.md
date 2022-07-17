@@ -32,14 +32,21 @@
 <!-- Certificate -->
 ### 📑 Certificate
 
-- [2016.06] ITQ OA Master
-- [2017.09] 네트워크관리사 2급
-- [2021.05] 컴퓨터활용능력 2급
+* [2016.06] ITQ OA Master
+* [2017.09] 네트워크관리사 2급
+* [2021.05] 컴퓨터활용능력 2급
 
 <!-- Project -->
-### 🖥 Project
+### 🖥 Projects
 
-- [2022.03 ~ 2022.06] Capstone디자인
+* [2022.03 ~ 2022.06] Capstone디자인
+
+<!-- Toy Projects -->
+### 🖥 Toy Projects
+
+* 학사정보시스템
+* 은행시스템
+* 게시판시스템
 
 <!-- Goals -->
 ### 🔥 Goals
