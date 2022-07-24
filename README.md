@@ -56,6 +56,9 @@
 <!-- Contacts -->
 ### Contacts
 <a href="mailto:lyt1228@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://chrome-bramble-9cb.notion.site/Today-I-Learned-c1ad722db3134c7e9abdf6f236b114ee">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</a>
 
 <!-- stats -->
 
