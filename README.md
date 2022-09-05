@@ -4,37 +4,56 @@
 
 - [2019.03 ~ ] 세종대학교 컴퓨터공학과
 
-<!-- Tech Stack -->
-### 🛠 Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<!-- Tech Stacks -->
+### 🛠 Tech Stacks
+#### Back-End
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Data JPA-6DB33F?style=flat-square&logo=Data JPA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Querydsl-6DB33F?style=flat-square&logo=Querydsl&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a>
-<!--
+
+#### Front-End
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
--->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ajax-000000?style=flat-square&logo=ajax&logoColor=white"/></a>
 
-<!-- Tools -->
-### 🛠 Tools
-<img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white"/></a>
+#### Server
+<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/></a>
+
+#### DB
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+
+#### OS
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
+
+#### Tools
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=DataGrip&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=CLion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+
+#### Collaboration & Document
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=flat-square&logo=Microsoft PowerPoint&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/></a>
 
-<!-- Certificate -->
-### 📑 Certificate
-
-* [2016.06] ITQ OA Master
-* [2017.09] 네트워크관리사 2급
-* [2021.05] 컴퓨터활용능력 2급
 
 <!-- Project -->
 ### 🖥 Projects
@@ -50,11 +69,6 @@
 * 게시판시스템
 * 도서관관리시스템
 
-
-<!-- Goals -->
-### 🔥 Goals
-<img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 <!-- Contacts -->
 ### Contacts
@@ -73,3 +87,19 @@
 
 ### BOJ Rank
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyt1228)](https://solved.ac/lyt1228)
+
+<!-- Certificate -->
+<!--
+### 📑 Certificate
+
+* [2016.06] ITQ OA Master
+* [2017.09] 네트워크관리사 2급
+* [2021.05] 컴퓨터활용능력 2급
+-->
+
+<!-- Goals -->
+<!--
+### 🔥 Goals
+<img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+-->
