@@ -58,9 +58,11 @@
 
 <!-- Project -->
 ### 🖥 Projects
-
-* [2022.03 ~ 2022.06] Capstone디자인
-* [2022.07 ~ ] 배달의민족
+|프로젝트|기간|팀 구성|내용|저장소|
+|---|---|---|---|---|
+|Capstone디자인|22.03 ~ 22.06|팀|*|url|
+|배달의민족|22.03 ~ 22.08|개인|*|url|
+|에브리타임|22.09 ~ |개인|*|url|
 
 <!-- Toy Projects -->
 ### 🖥 Toy Projects
@@ -79,9 +81,9 @@
 </a>
 
 <!-- stats -->
-
+<!--
 ![chaos0103's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaos0103&show_icons=true&theme=default)
-
+-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos0103&layout=compact)](https://github.com/chaos0103/github-readme-stats)
 -->
