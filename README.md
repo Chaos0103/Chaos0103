@@ -1,7 +1,3 @@
-<!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
--->
-
 ### 🐶  미래의 백앤드 서버 개발자
 
 - [2019.03 ~ ] 세종대학교 컴퓨터공학과
@@ -66,16 +62,6 @@
 |배달의민족|22.07 ~ 22.08|개인|*|url|
 |에브리타임|22.09 ~ |개인|*|url|
 
-<!-- Toy Projects -->
-<!--
-### 🖥 Toy Projects
-
-* 학사정보시스템
-* 은행시스템
-* 게시판시스템
-* 도서관관리시스템
--->
-
 <!-- Contacts -->
 ### Contacts
 <a href="mailto:lyt1228@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -83,29 +69,5 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
 
-<!-- stats -->
-<!--
-![chaos0103's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaos0103&show_icons=true&theme=default)
--->
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos0103&layout=compact)](https://github.com/chaos0103/github-readme-stats)
--->
-
 ### BOJ Rank
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyt1228)](https://solved.ac/lyt1228)
-
-<!-- Certificate -->
-<!--
-### 📑 Certificate
-
-* [2016.06] ITQ OA Master
-* [2017.09] 네트워크관리사 2급
-* [2021.05] 컴퓨터활용능력 2급
--->
-
-<!-- Goals -->
-<!--
-### 🔥 Goals
-<img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
--->
