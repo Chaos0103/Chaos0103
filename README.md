@@ -59,8 +59,8 @@
 |스터디|기간|팀 구성|내용|저장소|
 |---|---|---|---|---|
 |SSAFY 알고리즘 스터디|23.01 ~ 진행중|팀|*|[SSAFY_algorithm_study](https://github.com/Chaos0103/SSAFY_algorithm_study)|
-|SSAFY CS 스터디|23.01 ~ 진행중|개인|*|[SSAFY_CS_study](https://github.com/Chaos0103/SSAFY_CS_study)|
-|SSAFY BackEnd 스터디|23.01 ~ 진행중|개인|*|[SSAFY_BackEnd_study](https://github.com/Chaos0103/SSAFY_BackEnd_study)|
+|SSAFY CS 스터디|23.01 ~ 진행중|팀|*|[SSAFY_CS_study](https://github.com/Chaos0103/SSAFY_CS_study)|
+|SSAFY BackEnd 스터디|23.01 ~ 진행중|팀|*|[SSAFY_BackEnd_study](https://github.com/Chaos0103/SSAFY_BackEnd_study)|
 
 <!-- Project -->
 ### 🖥 Projects
