@@ -1,7 +1,33 @@
-### 🐶  미래의 백앤드 서버 개발자
+# 수정중
+---
+# 클린 코드를 지향하는 개발자, 임우택 입니다.
 
-- [2019.03 ~ 2023.02] 세종대학교 컴퓨터공학과
+# 🧑🏻‍💻 *My Stats*
+
+<img src="https://github-readme-stats.vercel.app/api?username=Chaos0103&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue" width="400px">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lyt1228" width="400px">
+
+# 🔎 *Profile*
+
+### 🏫 Education
+
+- [2016.03 ~ 2019.02] **유한대학교 정보통신과 전문학사 (편입학)**
+- [2019.03 ~ 2023.02] **세종대학교 컴퓨터공학과 학사 (졸업)**
 - [2023.01 ~ ] SSAFY 9기
+
+### 📜 Certification
+
+- [] **컴퓨터활용능력 2급**
+- [] **네트워크관리사 2급**
+- [] **ITQ OA Master**
+
+# ⚒️ *Skills*
+
+|  |  |
+| --- | --- |
+| **비교적 능숙해요** | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/></a> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a> |
+| **문서를 보고 기능을 구현해요** | <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/></a> |
+| **사용해본 적 있어요** | <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a> <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/></a> <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/></a> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/></a> |
 
 <!-- Tech Stacks -->
 ### 🛠 Tech Stacks
@@ -78,4 +104,4 @@
 </a>
 
 ### BOJ Rank
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyt1228)](https://solved.ac/lyt1228)
+
