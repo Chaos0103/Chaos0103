@@ -4,7 +4,9 @@
 
 ### ***Clean Code is Best!***
 
-> 좋은 개발자란...
+> **읽기 쉬운 코드를 짜는것은 좋은 개발자로 발전하기 위한 첫 걸음입니다.**<br/>
+> 꼼꼼한 명세서 작성으로 기능 누락을 하지 않고,<br/>
+> TDD를 기반으로 협업하는 팀원들과 **소통을 원활하게 할 수 있는 개발자**가 되겠습니다.
 
 <br/>
 <br/>
@@ -23,15 +25,15 @@
 
 - [2016.03 ~ 2019.02] **유한대학교 정보통신과 전문학사 (편입학)**
 - [2019.03 ~ 2023.02] **세종대학교 컴퓨터공학과 학사 (졸업)**
-- [2023.01 ~ ] SSAFY 9기
+- [2023.01 ~ ] **SSAFY 9기**
 
 <br/>
 
 ### 📜 Certification
 
-- [] **컴퓨터활용능력 2급**
-- [] **네트워크관리사 2급**
-- [] **ITQ OA Master**
+- [2016.06.30] **ITQ OA Master**
+- [2017.09.05] **네트워크관리사 2급**
+- [2021.05.07] **컴퓨터활용능력 2급**
 
 <br/>
 <br/>
@@ -49,66 +51,111 @@
 
 # 📚  *Projects*
 
+<b> 👬 Team Project </b> 
 
+<details>
+  <summary><b>ESL(전자가격표시기)를 이용한 스마트 예약시스템</b></summary>
+  <div markdown="1">
+    <br>
+    <a href="#"><img src="http://placehold.it/480x270" alt="#" width = "480" height="270" /></a><br>
 
-<!--
+    Video Searcher (Timestamp Finder)는 영상 내 키워드와 이미지를 바탕으로 한 검색 시스템을 구축해
+    사용자에게 효율적인 영상 시청을 제공하는 Android Application입니다.
 
-### 🛠 Tech Stacks
-#### Back-End
+  - 개발 기간 : 2022.03 ~ 2022.06
+    <br>
+  - 핵심 기술
+    - 작성중
+    <br>
+  - **⚙ BACKEND** 담당
+    - 작성중
+    <br/>
+    <br/>
+  </div>
+</details>
 
-<img src="https://img.shields.io/badge/Data JPA-6DB33F?style=flat-square&logo=Data JPA&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Querydsl-6DB33F?style=flat-square&logo=Querydsl&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a>
+<details>
+  <summary><b>관광지</b></summary>
+  <div markdown="1">
+    <br>
+    <a href="https://github.com/Chaos0103/travel"><img src="http://placehold.it/480x270" alt="travel" width = "480" height="270" /></a><br>
 
-#### Front-End
-<img src="https://img.shields.io/badge/ajax-000000?style=flat-square&logo=ajax&logoColor=white"/></a>
+    공공데이터를 활용하여 지역과 키워드를 바탕으로 한 조회 시스템을 구축해
+    사용자에게 효율적인 국내 여행지 정보를 제공하는 Web Application입니다.
 
-#### Server
-<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/></a>
+  - 개발 기간 : 2023.03 ~ 2022.05
+    <br>
+  - 핵심 기술
+    - 작성중
+    <br>
+  - **⚙BACKEND** 담당
+    - 작성중
+    <br/>
+    <br/>
+  </div>
+</details>
 
-#### DB
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+<br/>
 
-#### OS
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
+<b> 🧑🏻‍💻 Personal Project </b> 
 
-#### Tools
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=DataGrip&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=CLion&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
+<details>
+  <summary><b>배달의 민족</b></summary>
+  <div markdown="1">
+    <br>
+    <a href="#"><img src="http://placehold.it/480x270" alt="#" width = "480" height="270" /></a><br>
 
-#### Collaboration & Document
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=flat-square&logo=Microsoft PowerPoint&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/></a>
--->
+    Video Searcher (Timestamp Finder)는 영상 내 키워드와 이미지를 바탕으로 한 검색 시스템을 구축해
+    사용자에게 효율적인 영상 시청을 제공하는 Android Application입니다.
+
+  - 개발 기간 : 2022.03 ~ 2022.06
+    <br>
+  - 핵심 기술
+    - 작성중
+    <br>
+  - **⚙BACKEND** 담당
+    - 작성중
+    <br/>
+    <br/>
+  </div>
+</details>
+
+<details>
+  <summary><b>에브리타임</b></summary>
+  <div markdown="1">
+    <br>
+    <a href="#"><img src="http://placehold.it/480x270" alt="#" width = "480" height="270" /></a><br>
+
+    Video Searcher (Timestamp Finder)는 영상 내 키워드와 이미지를 바탕으로 한 검색 시스템을 구축해
+    사용자에게 효율적인 영상 시청을 제공하는 Android Application입니다.
+
+  - 개발 기간 : 2022.03 ~ 2022.06
+    <br>
+  - 핵심 기술
+    - 작성중
+    <br>
+  - **⚙BACKEND** 담당
+    - 작성중
+    <br/>
+    <br/>
+  </div>
+</details>
+
+<br/>
+<br/>
+
 <!-- Study -->
-### 🖥 Study
+# 🖥 Study
+
 |스터디|기간|팀 구성|내용|저장소|
 |---|---|---|---|---|
 |SSAFY 알고리즘 스터디|23.01 ~ 진행중|팀|*|[SSAFY_algorithm_study](https://github.com/Chaos0103/SSAFY_algorithm_study)|
 |SSAFY CS 스터디|23.01 ~ 진행중|팀|*|[SSAFY_CS_study](https://github.com/Chaos0103/SSAFY_CS_study)|
 |SSAFY BackEnd 스터디|23.01 ~ 진행중|팀|*|[SSAFY_BackEnd_study](https://github.com/Chaos0103/SSAFY_BackEnd_study)|
 
-<!-- Project -->
-### 🖥 Projects
-|프로젝트|기간|팀 구성|내용|저장소|
-|---|---|---|---|---|
-|Capstone디자인|22.03 ~ 22.06|팀|*|url|
-|배달의민족|22.07 ~ 22.08|개인|*|url|
-|에브리타임|22.09 ~ |개인|*|url|
+<br/>
+<br/>
 
-<!-- Contacts -->
-### Contacts
-<a href="mailto:lyt1228@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://chrome-bramble-9cb.notion.site/Today-I-Learned-c1ad722db3134c7e9abdf6f236b114ee">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-</a>
+---
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub .com%2FChaos0103&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
