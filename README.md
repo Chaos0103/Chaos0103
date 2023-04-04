@@ -158,6 +158,30 @@
 <br/>
 <br/>
 
+# 📜 강의 수료증
+
+<details>
+  <summary><b>우아한형제들 최연소 기술이사 김영한의 스프링 완전 정복</b></summary>
+  <div markdown="1">
+    <a href="https://www.inflearn.com/certificate/690173-325969-4811394">스프링 핵심 원리 - 기본편</a><br/>
+    <a href="https://www.inflearn.com/certificate/690173-326674-4811393">스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술</a><br/>
+    <a href="https://www.inflearn.com/certificate/690173-327260-4811395">스프링 MVC 2편 - 백엔드 웹 개발 활용 기술</a><br/>
+    <a href="https://www.inflearn.com/certificate/690173-326277-4811396">모든 개발자를 위한 HTTP 웹 기본 지식</a><br/>
+    <a href="https://www.inflearn.com/certificate/690173-328723-10450108">스프링 DB 1편 - 데이터 접근 핵심 원리</a><br/>
+  </div>
+</details>
+
+<details>
+  <summary><b>김영한의 스프링 부트와 JPA 실무 완전 정복 로드맵</b></summary>
+  <div markdown="1">
+    <a href="https://www.inflearn.com/certificate/690173-324109-10370250">자바 ORM 표준 JPA 프로그래밍 - 기본편</a><br/>
+    <a href="https://www.inflearn.com/certificate/690173-324119-10370249">실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발</a><br/>
+    <a href="https://www.inflearn.com/certificate/690173-324214-10370248">실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화</a><br/>
+    <a href="https://www.inflearn.com/certificate/690173-324474-10370247">실전! 스프링 데이터 JPA</a><br/>
+    <a href="https://www.inflearn.com/certificate/690173-324476-10370246">실전! Querydsl</a><br/>
+  </div>
+</details>
+
 ---
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub .com%2FChaos0103&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
