@@ -77,10 +77,10 @@
 </details>
 
 <details>
-  <summary><b>관광지</b></summary>
+  <summary><b>Enjoy Trip</b></summary>
   <div markdown="1">
     <br>
-    <a href="https://github.com/Chaos0103/travel"><img src="http://placehold.it/480x270" alt="travel" width = "480" height="270" /></a><br>
+    <a href="https://github.com/Chaos0103/EnjoyTrip"><img src="https://github.com/Chaos0103/EnjoyTrip/blob/master/src/main/webapp/assets/img/thumbnail.png" alt="travel" width = "480" height="270" /></a><br>
 
     공공데이터를 활용하여 지역과 키워드를 바탕으로 한 조회 시스템을 구축해
     사용자에게 효율적인 국내 여행지 정보를 제공하는 Web Application입니다.
