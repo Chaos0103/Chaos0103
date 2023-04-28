@@ -85,13 +85,35 @@
     공공데이터를 활용하여 지역과 키워드를 바탕으로 한 조회 시스템을 구축해
     사용자에게 효율적인 국내 여행지 정보를 제공하는 Web Application입니다.
 
-  - 개발 기간 : 2023.03 ~ 2022.05
+  - 개발 기간 : 2023.03 ~ 2023.05
     <br>
   - 핵심 기술
     - 작성중
     <br>
   - **⚙BACKEND** 담당
     - 작성중
+    <br/>
+    <br/>
+  </div>
+</details>
+
+<details>
+  <summary><b>Accio Hogsmeade</b></summary>
+  <div markdown="1">
+    <br>
+    <a href="https://github.com/Accio-Hogsmeade/Accio.hogsmeade-server"><img src="http://placehold.it/480x270" alt="" width = "480" height="270" /></a><br>
+
+    호그스미스의 다양한 마법 상점들을 바탕으로 한 쇼핑몰 시스템을 구축해
+    마법사들에게 빠르고 편한 쇼핑 서비스를 제공하는 Web Application입니다.
+
+  - 개발 기간 : 2023.04 ~ 
+    <br>
+  - 핵심 기술
+    - 작성중
+    <br>
+  - **⚙BACKEND** 담당
+    - Github를 이용한 프로젝트 관리
+    - Spring Boot기반 Backend 서버 개발
     <br/>
     <br/>
   </div>
