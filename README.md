@@ -165,6 +165,28 @@
   </div>
 </details>
 
+<details>
+  <summary><b>Discover Korea</b></summary>
+  <div markdown="1">
+    <br>
+    <a href="#"><img src="http://placehold.it/480x270" alt="#" width = "480" height="270" /></a><br>
+
+    Video Searcher (Timestamp Finder)는 영상 내 키워드와 이미지를 바탕으로 한 검색 시스템을 구축해
+    사용자에게 효율적인 영상 시청을 제공하는 Android Application입니다.
+
+  - 개발 기간 : 2022.03 ~ 2022.06
+    <br>
+  - 핵심 기술
+    - 작성중
+    <br>
+  - **⚙BACKEND** 담당
+    - 작성중
+    <br/>
+    <br/>
+  </div>
+</details>
+
+
 <br/>
 <br/>
 
