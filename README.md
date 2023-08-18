@@ -115,6 +115,31 @@
   </div>
 </details>
 
+<details>
+  <summary><b>꽃향기</b></summary>
+  <div markdown="1">
+    <br>
+    <a href="#"><img src="http://placehold.it/480x270" alt="" width = "480" height="270" /></a><br>
+
+    화훼 도매업자를 대상으로 실사간 꽃 경매 시스템을 구축해
+    사용자에게 다양한 편의성을 제공하는 Web Application입니다.
+
+  - 개발 기간 : 2023.07.03 ~ 2023.08.18
+    <br>
+  - 핵심 기술
+    - Java, Spring Boot, Spring Security, Spring Cloud, Spring REST Docs, JPA
+    - MySQL, Redis
+    - AWS EC2, nginx
+    <br>
+  - **⚙BACKEND**, **⚙INFRA** 담당
+    - MSA(MicroService Architecture)를 적용한 서버 개발
+    - Jira, Notion, Gitlab, Slack 등을 이용한 협업
+    - 인프라 서버 구축
+    <br/>
+    <br/>
+  </div>
+</details>
+
 <br/>
 
 <b> 🧑🏻‍💻 Personal Project </b> 
