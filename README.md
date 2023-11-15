@@ -94,28 +94,6 @@
 </details>
 
 <details>
-  <summary><b>Accio Hogsmeade</b></summary>
-  <div markdown="1">
-    <br>
-    <a href="https://github.com/Accio-Hogsmeade/Accio.hogsmeade-server"><img src="http://placehold.it/480x270" alt="" width = "480" height="270" /></a><br>
-
-    호그스미스의 다양한 마법 상점들을 바탕으로 한 쇼핑몰 시스템을 구축해
-    마법사들에게 빠르고 편한 쇼핑 서비스를 제공하는 Web Application입니다.
-
-  - 개발 기간 : 2023.04 ~ 
-    <br>
-  - 핵심 기술
-    - 작성중
-    <br>
-  - **⚙BACKEND** 담당
-    - Github를 이용한 프로젝트 관리
-    - Spring Boot기반 Backend 서버 개발
-    <br/>
-    <br/>
-  </div>
-</details>
-
-<details>
   <summary><b>꽃향기 🏆</b></summary>
   <div markdown="1">
     <br>
