@@ -23,7 +23,7 @@
 
 - [2016.03 ~ 2019.02] **유한대학교 정보통신과 전문학사 (편입학)**
 - [2019.03 ~ 2023.02] **세종대학교 컴퓨터공학과 학사 (졸업)**
-- [2023.01 ~ ] **SSAFY 9기**
+- [2023.01 ~ ] **삼성 청년 SW 아카데미 9기**
 
 <br/>
 
@@ -179,8 +179,7 @@
     <br>
     <a href="#"><img src="http://placehold.it/480x270" alt="#" width = "480" height="270" /></a><br>
 
-    Video Searcher (Timestamp Finder)는 영상 내 키워드와 이미지를 바탕으로 한 검색 시스템을 구축해
-    사용자에게 효율적인 영상 시청을 제공하는 Android Application입니다.
+    작성중
 
   - 개발 기간 : 2022.03 ~ 2022.06
     <br>
@@ -200,8 +199,7 @@
     <br>
     <a href="#"><img src="http://placehold.it/480x270" alt="#" width = "480" height="270" /></a><br>
 
-    Video Searcher (Timestamp Finder)는 영상 내 키워드와 이미지를 바탕으로 한 검색 시스템을 구축해
-    사용자에게 효율적인 영상 시청을 제공하는 Android Application입니다.
+    작성중
 
   - 개발 기간 : 2022.03 ~ 2022.06
     <br>
@@ -221,8 +219,7 @@
     <br>
     <a href="#"><img src="http://placehold.it/480x270" alt="#" width = "480" height="270" /></a><br>
 
-    Video Searcher (Timestamp Finder)는 영상 내 키워드와 이미지를 바탕으로 한 검색 시스템을 구축해
-    사용자에게 효율적인 영상 시청을 제공하는 Android Application입니다.
+    작성중
 
   - 개발 기간 : 2022.03 ~ 2022.06
     <br>
@@ -246,8 +243,6 @@
 |스터디|기간|팀 구성|내용|저장소|
 |---|---|---|---|---|
 |SSAFY 알고리즘 스터디|23.01 ~ 23.05|팀|*|[SSAFY_algorithm_study](https://github.com/Chaos0103/SSAFY_algorithm_study)|
-<!-- |SSAFY CS 스터디|23.01 ~ 진행중|팀|*|[SSAFY_CS_study](https://github.com/Chaos0103/SSAFY_CS_study)| -->
-<!-- |SSAFY BackEnd 스터디|23.01 ~ 진행중|팀|*|[SSAFY_BackEnd_study](https://github.com/Chaos0103/SSAFY_BackEnd_study)| -->
 
 <br/>
 <br/>
