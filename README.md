@@ -143,6 +143,31 @@
   </div>
 </details>
 
+<details>
+  <summary><b>everySCHOOL</b></summary>
+  <div markdown="1">
+    <br>
+    <a href="#"><img src="http://placehold.it/480x270" alt="" width = "480" height="270" /></a><br>
+
+    교사 개인정보를 보호하고 악성 민원을 사전 예방하여
+    가정과 학교 모두가 함께하는 서비스입니다.
+
+  - 개발 기간 : 2023.10.06 ~ 2023.11.17
+    <br>
+  - 핵심 기술
+    - Java, Spring Boot, Spring Security, Spring Cloud, Spring REST Docs, Spring Data JPA, Spring Batch
+    - MySQL, Redis, MongoDB, Firebase
+    - AWS EC2, nginx, docker, jenkins
+    <br>
+  - **⚙BACKEND**, **⚙INFRA** 담당
+    - MSA(MicroService Architecture)를 적용한 서버 개발
+    - Jira, Notion, Gitlab, Slack 등을 이용한 협업
+    - 인프라 서버 구축
+    <br/>
+    <br/>
+  </div>
+</details>
+
 <br/>
 
 <b> 🧑🏻‍💻 Personal Project </b> 
@@ -190,7 +215,7 @@
 </details>
 
 <details>
-  <summary><b>Discover Korea</b></summary>
+  <summary><b>Discover Korea</b></summary>
   <div markdown="1">
     <br>
     <a href="#"><img src="http://placehold.it/480x270" alt="#" width = "480" height="270" /></a><br>
