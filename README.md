@@ -50,7 +50,7 @@
 # 📚  *Projects*
 
 <b> 👬 Team Project </b> 
-
+<!--
 <details>
   <summary><b>ESL(전자가격표시기)를 이용한 스마트 예약시스템</b></summary>
   <div markdown="1">
@@ -92,6 +92,7 @@
     <br/>
   </div>
 </details>
+-->
 
 <details>
   <summary><b>꽃향기 🏆</b></summary>
