@@ -145,7 +145,7 @@
 </details>
 
 <details>
-  <summary><b>everySCHOOL</b></summary>
+  <summary><b>everySCHOOL 🏆</b></summary>
   <div markdown="1">
     <br>
     <a href="#"><img src="http://placehold.it/480x270" alt="" width = "480" height="270" /></a><br>
