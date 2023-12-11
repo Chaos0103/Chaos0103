@@ -47,6 +47,7 @@
 <br/>
 <br/>
 
+<!--
 # 📚  *Projects*
 
 <b> 👬 Team Project </b> 
@@ -92,7 +93,7 @@
     <br/>
   </div>
 </details>
--->
+
 
 <details>
   <summary><b>꽃향기 🏆</b></summary>
@@ -216,7 +217,7 @@
 
 <br/>
 <br/>
-
+-->
 <!-- Study -->
 # 🖥 Study
 
