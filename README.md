@@ -36,7 +36,7 @@
 
 <br />
 
-### 💡 experience
+### 💡 Experience
 
 * [2023.08.31 ~ 2023.09.01] **2023 카카오모빌리티 넥스트 모빌리티 해커톤 : 네모톤**
 * [2023.09.15 ~ 2023.09.17] **2023년 Shinhan Bank Hackathon with SSAFY**
@@ -54,192 +54,119 @@
 
 # ⚒️ *Skills*
 
-|  |  |
-| --- | --- |
-| **비교적 능숙해요** | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/></a> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/></a> |
-| **문서를 보고 기능을 구현해요** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/></a> <img src="https://img.shields.io/badge/MyBatis-A8B9CC?style=for-the-badge&logo=&logoColor=white"/></a> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/></a>|
-| **사용해본 적 있어요** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a> |
+|                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **비교적 능숙해요**        | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/></a> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **문서를 보고 기능을 구현해요** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/></a> <img src="https://img.shields.io/badge/MyBatis-A8B9CC?style=for-the-badge&logo=&logoColor=white"/></a> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/></a> |
+| **사용해본 적 있어요**      | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 <br/>
 <br/>
 
-<!--
-# 📚  *Projects*
+# 💻 Projects
 
-<b> 👬 Team Project </b> 
-<!--
-<details>
-  <summary><b>ESL(전자가격표시기)를 이용한 스마트 예약시스템</b></summary>
-  <div markdown="1">
-    <br>
-    <a href="#"><img src="http://placehold.it/480x270" alt="#" width = "480" height="270" /></a><br>
-
-    Video Searcher (Timestamp Finder)는 영상 내 키워드와 이미지를 바탕으로 한 검색 시스템을 구축해
-    사용자에게 효율적인 영상 시청을 제공하는 Android Application입니다.
-
-  - 개발 기간 : 2022.03 ~ 2022.06
-    <br>
-  - 핵심 기술
-    - 작성중
-    <br>
-  - **⚙ BACKEND** 담당
-    - 작성중
-    <br/>
-    <br/>
-  </div>
-</details>
+<b>👥 Team Project</b>
 
 <details>
-  <summary><b>Enjoy Trip</b></summary>
+  <summary><b>실시간 화훼 경매 시스템, 꽃향기 🌸</b></summary>
   <div markdown="1">
     <br>
-    <a href="https://github.com/Chaos0103/EnjoyTrip"><img src="https://github.com/Chaos0103/EnjoyTrip/blob/master/src/main/webapp/assets/img/thumbnail.png" alt="travel" width = "480" height="270" /></a><br>
+    <img src="https://github.com/Chaos0103/kkoch/blob/master/readme_assets/image/logo-removebg.png" alt="#" height="270" />
 
-    공공데이터를 활용하여 지역과 키워드를 바탕으로 한 조회 시스템을 구축해
-    사용자에게 효율적인 국내 여행지 정보를 제공하는 Web Application입니다.
-
-  - 개발 기간 : 2023.03 ~ 2023.05
-    <br>
-  - 핵심 기술
-    - 작성중
-    <br>
-  - **⚙BACKEND** 담당
-    - 작성중
-    <br/>
-    <br/>
-  </div>
-</details>
-
-
-<details>
-  <summary><b>꽃향기 🏆</b></summary>
-  <div markdown="1">
-    <br>
-    <a href="#"><img src="http://placehold.it/480x270" alt="" width = "480" height="270" /></a><br>
-
+    삼성 청년 SW 아카데이(SSAFY)에서 진행한 Web RTC(웹기술)를 활용한 공통 프로젝트로
     화훼 도매업자를 대상으로 실사간 꽃 경매 시스템을 구축해
     사용자에게 다양한 편의성을 제공하는 Web Application입니다.
 
-  - 개발 기간 : 2023.07.03 ~ 2023.08.18
-    <br>
-  - 핵심 기술
-    - Java, Spring Boot, Spring Security, Spring Cloud, Spring REST Docs, JPA
-    - MySQL, Redis
-    - AWS EC2, nginx
-    <br>
-  - **⚙BACKEND**, **⚙INFRA** 담당
-    - MSA(MicroService Architecture)를 적용한 서버 개발
-    - Jira, Notion, Gitlab, Slack 등을 이용한 협업
-    - 인프라 서버 구축
-    <br/>
-    <br/>
+- 프로젝트 기간 : 2023.07.04 ~ 2023.08.18
+- 프로젝트 링크
+  - [Github Repository](https://github.com/Chaos0103/kkoch)
+  - [Notion Portfolio](https://dev-dong82.notion.site/d1e71fea8c6242e0aed1b5f3ed067cdc?pvs=4)
+- 핵심 기술
+  - FrontEnd : React, TypeScript, WebSocket, Tailwind
+  - BackEnd : Java 11, Spring Boot 2, Spring Security, Spring Data JPA, Spring Cloud, Spring REST Docs
+  - Database : MySQL, Redis
+  - Infra : AWS EC2, Nginx, Prometheus, Grafana
+- 핵심 서비스
+  - Web RTC를 활용한 실시간 온라인 경매 참여
+  - 화훼 경매 사전 예약
+  - 도매업자 분들의 편의를 위해 보다 직관적이고 투명한 거래 정보 조회
+- **⚙ BACKEND, 🌐 INFRA** 담당
+  - MSA 서버 구축 및 배포
+  - 회원 및 경매 낙찰 기능 담당
   </div>
+
 </details>
 
 <details>
-  <summary><b>Newkids 🏆</b></summary>
+  <summary><b>어린이 기사 추천 및 어휘 학습 지원 서비스, NewKids 👶</b></summary>
   <div markdown="1">
     <br>
-    <a href="#"><img src="http://placehold.it/480x270" alt="" width = "480" height="270" /></a><br>
+    <img src="" alt="#" height="270" />
 
-    화훼 도매업자를 대상으로 실사간 꽃 경매 시스템을 구축해
-    사용자에게 다양한 편의성을 제공하는 Web Application입니다.
+    삼성 청년 SW 아카데이(SSAFY)에서 진행한 빅데이터 추천을 활용한 특화 프로젝트로
+    최근 사회적 이슈인 MZ 세대의 문해력 감소를 위해 빅데이터 추천 시스템을 구축해
+    사용자에게 뉴스 추천 및 어휘 학습을 제공하는 Web Application입니다.
 
-  - 개발 기간 : 2023.08.14 ~ 2023.10.06
-    <br>
-  - 핵심 기술
-    - Java, Spring Boot, Spring Security, Spring Cloud, Spring REST Docs, Spring Data JPA, Spring Batch
-    - MySQL, Redis, MongoDB
-    - AWS EC2, nginx, docker
-    <br>
-  - **⚙BACKEND**, **⚙INFRA** 담당
-    - MSA(MicroService Architecture)를 적용한 서버 개발
-    - Jira, Notion, Gitlab, Slack 등을 이용한 협업
-    - 인프라 서버 구축
-    <br/>
-    <br/>
+- 프로젝트 기간 : 2023.08.14 ~ 2023.10.06
+- 프로젝트 링크
+  - [Github Repository](https://github.com/Chaos0103/newkids)
+  - [Notion Portfolio](https://dev-dong82.notion.site/890d7cbc01da43cfb04825f952e9b02f?pvs=4)
+- 핵심 기술
+  - FrontEnd : React, TypeScript, Style-Components
+  - BackEnd : Java 11, Spring Boot 2, Spring Security, Spring Data JPA, Spring Batch, Spring Cloud, Spring REST Docs
+  - BigData : Python, Flask
+  - Database : MySQL, MongoDB, Redis
+  - Infra : AWS EC2, Nginx, Kafka, Prometheus, Grafana
+- 핵심 서비스
+  - 행동 기반 뉴스 기사 추천 시스템
+  - 문해력 감소를 위한 어휘 학습 기능
+- **⚙ BACKEND, 🌐 INFRA** 담당
+  - MSA 서버 구축 및 배포
   </div>
+
 </details>
 
 <details>
-  <summary><b>everySCHOOL 🏆</b></summary>
+  <summary><b>교사 인권 보호 및 소통 서비스, everySCHOOL 🏫</b></summary>
   <div markdown="1">
     <br>
-    <a href="#"><img src="http://placehold.it/480x270" alt="" width = "480" height="270" /></a><br>
+    <img src="https://github.com/Chaos0103/everySCHOOL/blob/master/etc/images/everyschoollogo.gif" alt="#" height="270" />
 
-    교사 개인정보를 보호하고 악성 민원을 사전 예방하여
-    가정과 학교 모두가 함께하는 서비스입니다.
+    삼성 청년 SW 아카데이(SSAFY)에서 진행한 자율 프로젝트로
+    교사 개인정보와 사생활을 보호하고 악성 민원을 사전 예방하여 가정과 학교 모두가 함께하는 서비스입니다.
 
-  - 개발 기간 : 2023.10.06 ~ 2023.11.17
-    <br>
-  - 핵심 기술
-    - Java, Spring Boot, Spring Security, Spring Cloud, Spring REST Docs, Spring Data JPA, Spring Batch
-    - MySQL, Redis, MongoDB, Firebase
-    - AWS EC2, nginx, docker, jenkins
-    <br>
-  - **⚙BACKEND**, **⚙INFRA** 담당
-    - MSA(MicroService Architecture)를 적용한 서버 개발
-    - Jira, Notion, Gitlab, Slack 등을 이용한 협업
-    - 인프라 서버 구축
-    <br/>
-    <br/>
+- 프로젝트 기간 : 2023.10.06 ~ 2023.11.17
+- 프로젝트 링크
+  - [Github Repository](https://github.com/Chaos0103/everySCHOOL)
+  - [Notion Portfolio](https://dev-dong82.notion.site/everySCHOOL-ad84a58bb6c743a085b2c2221009f676?pvs=4)
+- 핵심 기술
+  - FrontEnd : React, Flutter
+  - BackEnd : Java 11, Spring Boot 2, Spring Security, Spring Data JPA, Spring Batch, Spring Cloud, Spring REST Docs
+  - Database : MySQL, MongoDB, Redis
+  - Infra : AWS EC2, Nginx, Kafka, Prometheus, Grafana
+- 핵심 서비스
+  - CLOVA를 활용하여 통화 종료 후 대화 내용을 분석하여 악성 민원 의심 여부를 판단하는 통화 기능
+  - 채팅 전송 시 공격적인 언어를 필터링하여 상대방에게 전송을 제한하는 기능
+  - OpenAI를 활용하여 채팅 종료 후 이용 빈도가 적은 시간대에 스케줄링을 실행하여 공격적인 언어를 사용하지 않더라도 비꼬는 등의 대화 내용을 판별할 수 있는 기능
+  - 교직원 사생활 보호를 위한 방해 금지 모드 기능
+- **⚙ BACKEND, 🌐 INFRA** 담당
+  - MSA 서버 구축 및 배포
   </div>
+
 </details>
 
-<br/>
-
+<!--
 <b> 🧑🏻‍💻 Personal Project </b> 
-
-<details>
-  <summary><b>배달의 민족</b></summary>
-  <div markdown="1">
-    <br>
-    <a href="#"><img src="http://placehold.it/480x270" alt="#" width = "480" height="270" /></a><br>
-
-    작성중
-
-  - 개발 기간 : 2022.03 ~ 2022.06
-    <br>
-  - 핵심 기술
-    - 작성중
-    <br>
-  - **⚙BACKEND** 담당
-    - 작성중
-    <br/>
-    <br/>
-  </div>
-</details>
-
-<details>
-  <summary><b>에브리타임</b></summary>
-  <div markdown="1">
-    <br>
-    <a href="#"><img src="http://placehold.it/480x270" alt="#" width = "480" height="270" /></a><br>
-
-    작성중
-
-  - 개발 기간 : 2022.03 ~ 2022.06
-    <br>
-  - 핵심 기술
-    - 작성중
-    <br>
-  - **⚙BACKEND** 담당
-    - 작성중
-    <br/>
-    <br/>
-  </div>
-</details>
-
-
-<br/>
-<br/>
 -->
-<!-- Study -->
+
+<br/>
+<br/>
+
 # 🖥 Study
 
-|스터디|기간|팀 구성|내용|저장소|
-|---|---|---|---|---|
-|SSAFY 알고리즘 스터디|23.01 ~ 23.05|팀|*|[SSAFY_algorithm_study](https://github.com/Chaos0103/SSAFY_algorithm_study)|
+| 스터디            | 기간            | 팀 구성 | 내용 | 저장소                                                                         |
+|----------------|---------------|------|----|-----------------------------------------------------------------------------|
+| SSAFY 알고리즘 스터디 | 23.01 ~ 23.05 | 팀    | *  | [SSAFY_algorithm_study](https://github.com/Chaos0103/SSAFY_algorithm_study) |
 
 <br/>
 <br/>
