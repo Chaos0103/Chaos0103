@@ -11,7 +11,6 @@
 
 # 🧑🏻‍💻 *My Stats*
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chaos0103&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue" width="400px">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lyt1228" width="400px">
 
 <br/>
