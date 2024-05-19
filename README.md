@@ -8,14 +8,14 @@
 
 <br/>
 <br/>
-
+<!--
 # 🧑🏻‍💻 *My Stats*
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lyt1228" width="400px">
 
 <br/>
 <br/>
-
+-->
 # 🔎 *Profile*
 
 ### 🏫 Education
