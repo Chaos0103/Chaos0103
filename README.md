@@ -19,46 +19,23 @@
 
 # 🔎 *Profile*
 
-### 🏫 Education
+## 💡 Experiences
 
-* [2016.03 ~ 2019.02] **유한대학교 정보통신과 전문학사 (편입학)**
-* [2019.03 ~ 2023.02] **세종대학교 컴퓨터공학과 학사 (졸업)**
-* [2023.01 ~ 2023.12] **삼성 청년 SW 아카데미 9기**
+| 활동명                                     | 기간                      |
+|-----------------------------------------|-------------------------|
+| 유한대학교 정보통신과 (전문학사)                      | 2016.03 ~ 2019.02       |
+| 세종대학교 컴퓨터공학과 (학사)                       | 2019.03 ~ 2023.02       |
+| 삼성 청년 SW 아카데미 9기                        | 2023.01 ~ 2023.12       |
+| 2023 카카오모빌리티 넥스트 모빌리티 해커톤 : 네모톤         | 2023.08.31 ~ 2023.09.01 |
+| 2023년 Shinhan Bank Hackathon with SSAFY | 2023.09.15 ~ 2023.09.17 |
 
-<br/>
+## 🏆 Awards
 
-### 🏆 Awards
-
-* 🥈[2023.08.24] **삼성 청년 SW 아카데미 공통 프로젝트 우수상**
-* 🥉[2023.10.16] **삼성 청년 SW 아카데미 특화 프로젝트 우수상**
-* 🥉[2023.10.20] **삼성 청년 SW 아카데미 특화 프로젝트 UCC 경진대회 3위**
-* 🥉[2023.11.27] **삼성 청년 SW 아카데미 자율 프로젝트 우수상**
-
-<br />
-
-### 💡 Experiences
-
-* [2023.08.31 ~ 2023.09.01] **2023 카카오모빌리티 넥스트 모빌리티 해커톤 : 네모톤**
-* [2023.09.15 ~ 2023.09.17] **2023년 Shinhan Bank Hackathon with SSAFY**
-
-<br />
-
-### 📜 Certification
-
-* [2016.06.30] **ITQ OA Master**
-* [2017.09.05] **네트워크관리사 2급**
-* [2021.05.07] **컴퓨터활용능력 2급**
-
-<br/>
-<br/>
-
-# ⚒️ *Skills*
-
-|                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **비교적 능숙해요**        | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/></a> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| **문서를 보고 기능을 구현해요** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/></a> <img src="https://img.shields.io/badge/MyBatis-A8B9CC?style=for-the-badge&logo=&logoColor=white"/></a> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/></a> |
-| **사용해본 적 있어요**      | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 프로젝트명       | 수상내역                           | 주관처  | 수상년월    |
+|-------------|--------------------------------|------|---------|
+| 꽃향기         | 삼성 청년 SW 아카데미 공통 프로젝트 광주 2반 2등 | 삼성전자 | 2023.08 |
+| Newkids     | 삼성 청년 SW 아카데미 특화 프로젝트 광주 2반 3등 | 삼성전자 | 2023.10 |
+| everySCHOOL | 삼성 청년 SW 아카데미 자율 프로젝트 광주 1반 3등 | 삼성전자 | 2023.11 |
 
 <br/>
 <br/>
