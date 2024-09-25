@@ -1,4 +1,4 @@
-# 끊임없이 학습하는 개발자, 임우택입니다.
+# Readable Code를 지향하는 개발자, 임우택입니다.
 
 ### ***Clean Code is Best!***
 
@@ -7,15 +7,6 @@
 > TDD를 기반으로 협업하는 팀원들과 **소통을 원활하게 할 수 있는 개발자**가 되겠습니다.
 
 <br/>
-
-<!--
-# 🧑🏻‍💻 *My Stats*
-
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lyt1228" width="400px">
-
-<br/>
-<br/>
--->
 
 # 🔎 *Profile*
 
@@ -138,17 +129,8 @@
 
 <br/>
 <br/>
+
 <!--
-# 🖥 Study
-
-| 스터디            | 기간            | 팀 구성 | 내용 | 저장소                                                                         |
-|----------------|---------------|------|----|-----------------------------------------------------------------------------|
-| SSAFY 알고리즘 스터디 | 23.01 ~ 23.05 | 팀    | *  | [SSAFY_algorithm_study](https://github.com/Chaos0103/SSAFY_algorithm_study) |
-
-<br/>
-<br/>
--->
-
 # 📜 강의 수료증
 
 <details>
@@ -172,5 +154,6 @@
     <a href="https://www.inflearn.com/certificate/690173-324476-10370246">실전! Querydsl</a><br/>
   </div>
 </details>
+-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChaos0103&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
