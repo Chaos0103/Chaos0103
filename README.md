@@ -123,10 +123,6 @@
 
 </details>
 
-<!--
-<b> 🧑🏻‍💻 Personal Project </b> 
--->
-
 <br/>
 <br/>
 
