@@ -36,13 +36,18 @@
 ### 🍊 Orange Zone
 
 > **리그 오브 레전드 프로게임단 한화생명e스포츠 팬들을 위한 통합 앱 서비스**
+
 팬들이 **경기 일정과 티켓팅 일정을 놓치지 않고**,
 **결과와 통계**를 한눈에 확인할 수 있도록 개발한 **모바일 플랫폼**입니다.
+
 ---
+
 #### 🔗 Download
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.orangezonev1)
 * [App Store](https://apps.apple.com/us/app/orange-zone/id6747382681)
+
 ---
+
 #### 💡 Highlights
 * 가입자 수 약 **2,300명** (25.10.18 기준)
 * **Google Play Store** 스포츠분야 **3위** 달성
