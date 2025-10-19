@@ -33,99 +33,17 @@
 
 # 💻 Projects
 
-<b>👥 Team Project</b>
+### 🍊 Orange Zone
 
-<details>
-  <summary><b>실시간 화훼 경매 시스템, 꽃향기 🌸</b></summary>
-  <div markdown="1">
-    <br>
-    <img src="https://github.com/Chaos0103/kkoch/blob/master/readme_assets/image/logo-removebg.png" alt="#" height="270" />
-
-    삼성 청년 SW 아카데이(SSAFY)에서 진행한 Web RTC(웹기술)를 활용한 공통 프로젝트로
-    화훼 도매업자를 대상으로 실사간 꽃 경매 시스템을 구축해
-    사용자에게 다양한 편의성을 제공하는 Web Application입니다.
-
-- 프로젝트 기간 : 2023.07.04 ~ 2023.08.18
-- 프로젝트 링크
-  - [Github Repository](https://github.com/Chaos0103/kkoch)
-  - [Notion Portfolio](https://dev-dong82.notion.site/d1e71fea8c6242e0aed1b5f3ed067cdc?pvs=4)
-- 핵심 기술
-  - FrontEnd : React, TypeScript, WebSocket, Tailwind
-  - BackEnd : Java 11, Spring Boot 2, Spring Security, Spring Data JPA, Spring Cloud, Spring REST Docs
-  - Database : MySQL, Redis
-  - Infra : AWS EC2, Nginx, Prometheus, Grafana
-- 핵심 서비스
-  - Web RTC를 활용한 실시간 온라인 경매 참여
-  - 화훼 경매 사전 예약
-  - 도매업자 분들의 편의를 위해 보다 직관적이고 투명한 거래 정보 조회
-- **⚙ BACKEND, 🌐 INFRA** 담당
-  - MSA 서버 구축 및 배포
-  - 회원 및 경매 낙찰 기능 담당
-  </div>
-
-</details>
-
-<details>
-  <summary><b>어린이 기사 추천 및 어휘 학습 지원 서비스, NewKids 👶</b></summary>
-  <div markdown="1">
-    <br>
-    <img src="" alt="#" height="270" />
-
-    삼성 청년 SW 아카데이(SSAFY)에서 진행한 빅데이터 추천을 활용한 특화 프로젝트로
-    최근 사회적 이슈인 MZ 세대의 문해력 감소를 위해 빅데이터 추천 시스템을 구축해
-    사용자에게 뉴스 추천 및 어휘 학습을 제공하는 Web Application입니다.
-
-- 프로젝트 기간 : 2023.08.14 ~ 2023.10.06
-- 프로젝트 링크
-  - [Github Repository](https://github.com/Chaos0103/newkids)
-  - [Notion Portfolio](https://dev-dong82.notion.site/890d7cbc01da43cfb04825f952e9b02f?pvs=4)
-- 핵심 기술
-  - FrontEnd : React, TypeScript, Style-Components
-  - BackEnd : Java 11, Spring Boot 2, Spring Security, Spring Data JPA, Spring Batch, Spring Cloud, Spring REST Docs
-  - BigData : Python, Flask
-  - Database : MySQL, MongoDB, Redis
-  - Infra : AWS EC2, Nginx, Kafka, Prometheus, Grafana
-- 핵심 서비스
-  - 행동 기반 뉴스 기사 추천 시스템
-  - 문해력 감소를 위한 어휘 학습 기능
-- **⚙ BACKEND, 🌐 INFRA** 담당
-  - MSA 서버 구축 및 배포
-  </div>
-
-</details>
-
-<details>
-  <summary><b>교사 인권 보호 및 소통 서비스, everySCHOOL 🏫</b></summary>
-  <div markdown="1">
-    <br>
-    <img src="https://github.com/Chaos0103/everySCHOOL/blob/master/etc/images/everyschoollogo.gif" alt="#" height="270" />
-
-    삼성 청년 SW 아카데이(SSAFY)에서 진행한 자율 프로젝트로
-    교사 개인정보와 사생활을 보호하고 악성 민원을 사전 예방하여 가정과 학교 모두가 함께하는 서비스입니다.
-
-- 프로젝트 기간 : 2023.10.06 ~ 2023.11.17
-- 프로젝트 링크
-  - [Github Repository](https://github.com/Chaos0103/everySCHOOL)
-  - [Notion Portfolio](https://dev-dong82.notion.site/everySCHOOL-ad84a58bb6c743a085b2c2221009f676?pvs=4)
-- 핵심 기술
-  - FrontEnd : React, Flutter
-  - BackEnd : Java 11, Spring Boot 2, Spring Security, Spring Data JPA, Spring Batch, Spring Cloud, Spring REST Docs
-  - Database : MySQL, MongoDB, Redis
-  - Infra : AWS EC2, Nginx, Kafka, Prometheus, Grafana
-- 핵심 서비스
-  - CLOVA를 활용하여 통화 종료 후 대화 내용을 분석하여 악성 민원 의심 여부를 판단하는 통화 기능
-  - 채팅 전송 시 공격적인 언어를 필터링하여 상대방에게 전송을 제한하는 기능
-  - OpenAI를 활용하여 채팅 종료 후 이용 빈도가 적은 시간대에 스케줄링을 실행하여 공격적인 언어를 사용하지 않더라도 비꼬는 등의 대화 내용을 판별할 수 있는 기능
-  - 교직원 사생활 보호를 위한 방해 금지 모드 기능
-- **⚙ BACKEND, 🌐 INFRA** 담당
-  - MSA 서버 구축 및 배포
-  </div>
-
-</details>
-
-<br/>
-<br/>
-
-<!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChaos0103&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
--->
+> **리그 오브 레전드 프로게임단 한화생명e스포츠 팬들을 위한 통합 앱 서비스**
+팬들이 **경기 일정과 티켓팅 일정을 놓치지 않고**,
+**결과와 통계**를 한눈에 확인할 수 있도록 개발한 **모바일 플랫폼**입니다.
+---
+#### 🔗 Download
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.orangezonev1)
+* [App Store](https://apps.apple.com/us/app/orange-zone/id6747382681)
+---
+#### 💡 Highlights
+* 가입자 수 약 **2,300명** (25.10.18 기준)
+* **Google Play Store** 스포츠분야 **3위** 달성
+* **App Store** 스포츠분야 **무료 앱 24위** 달성
