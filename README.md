@@ -43,7 +43,7 @@
 * [App Store](https://apps.apple.com/us/app/orange-zone/id6747382681)
 
 #### 💡 Highlights
-* 가입자 수 약 **8,300명** (26.01.01 기준)
+* 가입자 수 약 **9,200명** (26.01.01 기준)
 * **Google Play Store** 스포츠분야 **3위** 달성
 * **App Store** 스포츠분야 **무료 앱 1위** 달성
 
